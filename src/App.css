@@ -1,0 +1,10 @@
+.line{
+    color: white;
+    margin-top: 30vh;
+}
+
+@media(max-width : 804px){
+    .line{
+        margin-top: 33vh;
+    }
+}
